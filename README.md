@@ -2,7 +2,7 @@
 Dysmech Competency Services 
 
 
-## 🌐 Socials:
+## 🌐 Socials: HarshDaharwal.pythonanywhere.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Harsh Daharwal](https://www.linkedin.com/in/harsh-daharwal-24b028181/)) 
 
 # 💻 Tech Stack:
